@@ -1,5 +1,5 @@
 {
-  "name": "ilab/container",
+  "name": "ilab/illuminate-container",
   "description": "The Illuminate Container package.",
   "license": "MIT",
   "homepage": "https://laravel.com",
@@ -15,7 +15,7 @@
   ],
   "require": {
     "php": ">=7.0",
-    "ilab/contracts": "5.6.*",
+    "ilab/illuminate-contracts": "5.6.*",
     "psr/container": "~1.0"
   },
   "autoload": {
@@ -35,7 +35,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/interfacelab/ilab-contracts"
+      "url": "https://github.com/interfacelab/ilab-illuminate-contracts"
     }
   ]
 }
